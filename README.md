@@ -50,8 +50,15 @@ This is the **bold** text and this is the _italic_ text and let's do ~~strikethr
 ```
 
 <!--Quote-->
+# 4. Quote 실습
 
 > Don't forget to code your dream.
+
+## 작성 방법
+
+```
+> Don't forget to code your dream.
+```
 
 <!--Bullet list-->
 
