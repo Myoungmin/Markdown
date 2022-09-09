@@ -121,6 +121,8 @@ Click [here](https://myoung-min.tistory.com/)
 ```
 
 <!-- Table -->
+# 9. Table 실습
+
 <!-- :의 위치로 왼쪽, 오른쪽, 가운데 정렬이 적용된다.  -->
 
 | Header | Description |
@@ -128,6 +130,18 @@ Click [here](https://myoung-min.tistory.com/)
 | Cell1  |    Cell2    |
 | Cell3  |    Cell4    |
 | Cell5  |    Cell6    |
+
+## 작성 방법
+
+```
+<!-- :의 위치로 왼쪽, 오른쪽, 가운데 정렬이 적용된다.  -->
+
+| Header | Description |
+| :----: | :---------: |
+| Cell1  |    Cell2    |
+| Cell3  |    Cell4    |
+| Cell5  |    Cell6    |
+```
 
 <!-- Code -->
 <!-- 문서 안에서 특정 코드를 보여주고 싶을 때 -->
