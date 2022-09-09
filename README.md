@@ -39,8 +39,15 @@ Paragraph
 ```
 
 <!--Text attributes-->
+# 3. Text attributes 실습
 
 This is the **bold** text and this is the _italic_ text and let's do ~~strikethrough~~.
+
+## 작성 방법
+
+```
+This is the **bold** text and this is the _italic_ text and let's do ~~strikethrough~~.
+```
 
 <!--Quote-->
 
