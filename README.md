@@ -1,4 +1,5 @@
 <!--Heading-->
+# Heading 실습
 
 # Heading 1
 
@@ -13,6 +14,18 @@
 ###### Heading 6
 
 Paragraph
+
+## 작성 방법
+
+```
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+Paragraph
+```
 
 <!--Line-->
 
