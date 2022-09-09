@@ -144,9 +144,13 @@ Click [here](https://myoung-min.tistory.com/)
 ```
 
 <!-- Code -->
+# 10. Code 실습
+
+```
 <!-- 문서 안에서 특정 코드를 보여주고 싶을 때 -->
 <!--`(백틱키)로 감싸 인라인 형태를 만들거나, 3개로 감싸 코드 블록을 생성 -->
 <!-- 백틱키 3개 뒤에 해당 언어를 적으면 그 언어에 맞게 하이라이트 된다. -->
+```
 
 To print message in the console, use `console.log('your message')` and ..
 
@@ -155,8 +159,9 @@ console.log("hello");
 ```
 
 <!-- PR Description Example -->
+# 11. PR Description Example
 
-# What is Lorem Ipsum?
+## What is Lorem Ipsum?
 
 `Lorem Ipsum` is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy **text ever since the 1500s**, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
