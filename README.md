@@ -99,12 +99,26 @@ Numbers:
 ```
 
 <!--Link-->
+# 7. Link 실습
 
 Click [here](https://myoung-min.tistory.com/)
 
+## 작성 방법
+
+```
+Click [here](https://myoung-min.tistory.com/)
+```
+
 <!--Image-->
+# 8. Image 실습
 
 ![image description](https://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
+
+## 작성 방법
+
+```
+![image description](https://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
+```
 
 <!-- Table -->
 <!-- :의 위치로 왼쪽, 오른쪽, 가운데 정렬이 적용된다.  -->
