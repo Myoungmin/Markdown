@@ -61,6 +61,7 @@ This is the **bold** text and this is the _italic_ text and let's do ~~strikethr
 ```
 
 <!--Bullet list-->
+# 5. Bullet list 실습
 
 - one
 - two
@@ -68,13 +69,34 @@ This is the **bold** text and this is the _italic_ text and let's do ~~strikethr
 * three
 * four
 
+## 작성 방법
+
+```
+- one
+- two
+
+* three
+* four
+```
+
 <!--Numbered list-->
+# 6. Numbered list 실습
 
 Numbers:
 
 1. first
 2. second
 3. third
+
+## 작성 방법
+
+```
+Numbers:
+
+1. first
+2. second
+3. third
+```
 
 <!--Link-->
 
