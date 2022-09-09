@@ -1,5 +1,5 @@
 <!--Heading-->
-# Heading 실습
+# 1. Heading 실습
 
 # Heading 1
 
@@ -28,8 +28,15 @@ Paragraph
 ```
 
 <!--Line-->
+# 2. Line 실습
 
 ---
+
+## 작성 방법
+
+```
+---
+```
 
 <!--Text attributes-->
 
